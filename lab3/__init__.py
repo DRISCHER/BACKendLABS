@@ -11,5 +11,5 @@ migrate = Migrate(app, db)
 
 
 import lab3.views
-import lab3.models
+import lab3.model
 
